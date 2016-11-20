@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\build\\intermediates\\res\\merged\\debug\\layout\\content_fragment.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\src\\main\\res\\layout\\content_fragment.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\build\\intermediates\\res\\merged\\debug\\layout\\photo_item.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\src\\main\\res\\layout\\photo_item.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\build\\intermediates\\res\\merged\\debug\\layout\\slidingmenumain.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\build\\intermediates\\exploded-aar\\Annie\\library\\unspecified\\res\\layout\\slidingmenumain.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\build\\intermediates\\res\\merged\\debug\\layout\\refresh_footer.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\src\\main\\res\\layout\\refresh_footer.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\build\\intermediates\\res\\merged\\debug\\layout\\newsdetails.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\src\\main\\res\\layout\\newsdetails.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\build\\intermediates\\res\\merged\\debug\\layout\\left_menu_items.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\src\\main\\res\\layout\\left_menu_items.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main_ui.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\src\\main\\res\\layout\\activity_main_ui.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\build\\intermediates\\res\\merged\\debug\\layout\\activity_left_menu.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\src\\main\\res\\layout\\activity_left_menu.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\build\\intermediates\\res\\merged\\debug\\layout\\photo_detail_pager.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\src\\main\\res\\layout\\photo_detail_pager.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\build\\intermediates\\res\\merged\\debug\\layout\\tabdetail_newsitem.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\src\\main\\res\\layout\\tabdetail_newsitem.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\build\\intermediates\\res\\merged\\debug\\layout\\activity_guide_ui.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\src\\main\\res\\layout\\activity_guide_ui.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\build\\intermediates\\res\\merged\\debug\\layout\\activity_welcome_ui.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\src\\main\\res\\layout\\activity_welcome_ui.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\build\\intermediates\\res\\merged\\debug\\layout\\activity_news_detail.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\src\\main\\res\\layout\\activity_news_detail.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\build\\intermediates\\res\\merged\\debug\\layout\\refresh_header.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\src\\main\\res\\layout\\refresh_header.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\build\\intermediates\\res\\merged\\debug\\layout\\activity_right_menu.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\src\\main\\res\\layout\\activity_right_menu.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\build\\intermediates\\res\\merged\\debug\\layout\\title_bar.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\src\\main\\res\\layout\\title_bar.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\build\\intermediates\\res\\merged\\debug\\layout\\tabdetail.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\src\\main\\res\\layout\\tabdetail.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\build\\intermediates\\res\\merged\\debug\\layout\\basepager.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\src\\main\\res\\layout\\basepager.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\build\\intermediates\\res\\merged\\debug\\layout\\topnes.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\src\\main\\res\\layout\\topnes.xml"
+    }
+]

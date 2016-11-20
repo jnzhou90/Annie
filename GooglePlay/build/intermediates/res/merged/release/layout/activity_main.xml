@@ -1,0 +1,40 @@
+<android.support.v4.widget.DrawerLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/drawerLayout_main">
+
+    <!-- 主界面的布局 -->
+    <LinearLayout 
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        
+        android:orientation="vertical">  
+        
+        <com.annie.googleplay.ui.view.PagerSlidingTab
+           android:id="@+id/main_pst_pagerslidlingtab"
+           android:layout_width="match_parent"
+           android:layout_height="55dp" />
+        
+        <android.support.v4.view.ViewPager
+            android:id="@+id/main_vp_viewpager"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+            
+            
+       
+	</LinearLayout>
+	
+    <!-- 左菜单的布局 -->
+   <LinearLayout 
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="left">  
+        
+        <include layout="@layout/menu_list"/>
+        
+	</LinearLayout>
+    
+</android.support.v4.widget.DrawerLayout>
+
+ 

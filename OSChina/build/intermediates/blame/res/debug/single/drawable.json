@@ -1,0 +1,410 @@
+[
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_icon_explore.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\src\\main\\res\\drawable\\tab_icon_explore.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable\\comment_background.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\src\\main\\res\\drawable\\comment_background.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable\\quickoption_icon_photo_selector.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\src\\main\\res\\drawable\\quickoption_icon_photo_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable\\drawer_menu_icon_exit.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\src\\main\\res\\drawable\\drawer_menu_icon_exit.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_send.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\src\\main\\res\\drawable\\selector_send.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_action_write.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\src\\main\\res\\drawable\\ic_action_write.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_icon_new.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\src\\main\\res\\drawable\\tab_icon_new.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable\\messages_left_bubble_selector.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\src\\main\\res\\drawable\\messages_left_bubble_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable\\quickoption_icon_voice_selector.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\src\\main\\res\\drawable\\quickoption_icon_voice_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable\\chat_to_bg_selector.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\src\\main\\res\\drawable\\chat_to_bg_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable\\progressloading.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\src\\main\\res\\drawable\\progressloading.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable\\list_layout_item_selector.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\src\\main\\res\\drawable\\list_layout_item_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable\\drawer_menu_icon_quest.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\src\\main\\res\\drawable\\drawer_menu_icon_quest.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable\\drawer_menu_item_background.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\src\\main\\res\\drawable\\drawer_menu_item_background.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_radio_selector.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\src\\main\\res\\drawable\\btn_radio_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable\\share_icon_wechatfriends_selector.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\src\\main\\res\\drawable\\share_icon_wechatfriends_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable\\drawer_menu_icon_setting.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\src\\main\\res\\drawable\\drawer_menu_icon_setting.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable\\compose_toolbar_keyboard_selector.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\src\\main\\res\\drawable\\compose_toolbar_keyboard_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_keyboard.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\src\\main\\res\\drawable\\selector_keyboard.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable\\comment_edittext_selector.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\src\\main\\res\\drawable\\comment_edittext_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable\\quickoption_icon_scan_selector.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\src\\main\\res\\drawable\\quickoption_icon_scan_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable\\share_icon_qq_selector.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\src\\main\\res\\drawable\\share_icon_qq_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_action_report.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\src\\main\\res\\drawable\\ic_action_report.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable\\tweet_bg_parent_rounded_corner.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\src\\main\\res\\drawable\\tweet_bg_parent_rounded_corner.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_opt_tools_to_text_selector.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\src\\main\\res\\drawable\\btn_opt_tools_to_text_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable\\quickoption_icon_note_selector.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\src\\main\\res\\drawable\\quickoption_icon_note_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable\\quickoption_icon_album_selector.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\src\\main\\res\\drawable\\quickoption_icon_album_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable\\share_icon_more_selector.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\src\\main\\res\\drawable\\share_icon_more_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_blue_selector.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\src\\main\\res\\drawable\\btn_blue_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_del_selector.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\src\\main\\res\\drawable\\btn_del_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_small_white_selector.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\src\\main\\res\\drawable\\btn_small_white_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable\\chat_from_bg_selector.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\src\\main\\res\\drawable\\chat_from_bg_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable\\list_item_background.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\src\\main\\res\\drawable\\list_item_background.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_opt_text_to_tools_selector.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\src\\main\\res\\drawable\\btn_opt_text_to_tools_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable\\ib_clear_image_selector.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\src\\main\\res\\drawable\\ib_clear_image_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable\\compose_toolbar_trend_selector.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\src\\main\\res\\drawable\\compose_toolbar_trend_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable\\team_issue_tag_bg.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\src\\main\\res\\drawable\\team_issue_tag_bg.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_medium_holo.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\src\\main\\res\\drawable\\progress_medium_holo.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_action_favor.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\src\\main\\res\\drawable\\ic_action_favor.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable\\teamlist_item_background.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\src\\main\\res\\drawable\\teamlist_item_background.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_item_opt_more_selector.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\src\\main\\res\\drawable\\btn_item_opt_more_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable\\pic_bg.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\src\\main\\res\\drawable\\pic_bg.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_record_button.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\src\\main\\res\\drawable\\bg_record_button.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable\\quickoption_icon_find_selector.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\src\\main\\res\\drawable\\quickoption_icon_find_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_send_comment_selector.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\src\\main\\res\\drawable\\btn_send_comment_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_record_layout.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\src\\main\\res\\drawable\\selector_record_layout.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog_list_cell_single_choice.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\src\\main\\res\\drawable\\dialog_list_cell_single_choice.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable\\drawer_menu_icon_gitapp.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\src\\main\\res\\drawable\\drawer_menu_icon_gitapp.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_quickoption_selector.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\src\\main\\res\\drawable\\btn_quickoption_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable\\drawer_menu_icon_blog.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\src\\main\\res\\drawable\\drawer_menu_icon_blog.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable\\share_icon_wechat_selector.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\src\\main\\res\\drawable\\share_icon_wechat_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable\\textfield_selector.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\src\\main\\res\\drawable\\textfield_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_action_repost.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\src\\main\\res\\drawable\\ic_action_repost.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_action_comment.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\src\\main\\res\\drawable\\ic_action_comment.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable\\socialize_titlebar_item_background_selector.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\src\\main\\res\\drawable\\socialize_titlebar_item_background_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_icon_tweet.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\src\\main\\res\\drawable\\tab_icon_tweet.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_edittext.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\src\\main\\res\\drawable\\bg_edittext.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_green_selector.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\src\\main\\res\\drawable\\btn_green_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable\\compose_toolbar_emoji_selector.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\src\\main\\res\\drawable\\compose_toolbar_emoji_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable\\compose_toolbar_picture_selector.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\src\\main\\res\\drawable\\compose_toolbar_picture_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable\\quickoption_icon_text_selector.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\src\\main\\res\\drawable\\quickoption_icon_text_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable\\share_icon_sinaweibo_selector.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\src\\main\\res\\drawable\\share_icon_sinaweibo_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_small_green_selector.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\src\\main\\res\\drawable\\btn_small_green_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable\\share_icon_copy_link_selector.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\src\\main\\res\\drawable\\share_icon_copy_link_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_white_selector.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\src\\main\\res\\drawable\\btn_white_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable\\my_infomation_option_item_background.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\src\\main\\res\\drawable\\my_infomation_option_item_background.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_clear_input_selector.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\src\\main\\res\\drawable\\btn_clear_input_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_notebook.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\src\\main\\res\\drawable\\bg_notebook.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_icon_me.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\src\\main\\res\\drawable\\tab_icon_me.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable\\touch_clear_bg.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\src\\main\\res\\drawable\\touch_clear_bg.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable\\compose_clear_selector.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\src\\main\\res\\drawable\\compose_clear_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable\\compose_toolbar_mention_selector.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\src\\main\\res\\drawable\\compose_toolbar_mention_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable\\drawer_menu_icon_opensoft.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\src\\main\\res\\drawable\\drawer_menu_icon_opensoft.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable\\drawer_menu_icon_rss.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\src\\main\\res\\drawable\\drawer_menu_icon_rss.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_oval_background.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\src\\main\\res\\drawable\\btn_oval_background.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_emoji_selector.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\src\\main\\res\\drawable\\btn_emoji_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    }
+]

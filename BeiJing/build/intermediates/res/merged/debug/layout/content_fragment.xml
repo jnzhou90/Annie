@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    <com.annie.newsApp.view.NoScrollViewPager
+        android:id="@+id/content_vp_pagers"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"/>
+    <RadioGroup 
+        android:id="@+id/content_rgp_bottomButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/bottom_tab_bg"
+        android:orientation="horizontal">
+        <RadioButton 
+            android:id="@+id/content_rb_home"
+            style="@style/bottomStyle"
+            android:text="首页"
+            android:drawableTop="@drawable/bottom_home_selector"
+            />
+        <RadioButton 
+            android:id="@+id/content_rb_newsCenter"
+            style="@style/bottomStyle"
+            android:text="新闻中心"
+            android:drawableTop="@drawable/bottom_newscenter_selector"
+            />
+        <RadioButton 
+            android:id="@+id/content_rb_smartService"
+            style="@style/bottomStyle"
+            android:text="智慧服务"
+            android:drawableTop="@drawable/bottom_smartservice_selector"
+            />
+        <RadioButton 
+            android:id="@+id/content_rb_goveraffirs"
+            style="@style/bottomStyle"
+            android:text="政务"
+            android:drawableTop="@drawable/bottom_govaffairs_selector"
+            />
+        <RadioButton 
+            android:id="@+id/content_rb_setting"
+            style="@style/bottomStyle"
+            android:text="设置"
+            android:drawableTop="@drawable/bottom_setting_selector"
+            />
+    </RadioGroup>
+    
+
+</LinearLayout>

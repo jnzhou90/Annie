@@ -1,0 +1,170 @@
+[
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\setting.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\src\\main\\res\\drawable-hdpi\\setting.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\home_press.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\src\\main\\res\\drawable-hdpi\\home_press.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\title_red_bg.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\src\\main\\res\\drawable-hdpi\\title_red_bg.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_pic_grid_type.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\src\\main\\res\\drawable-hdpi\\icon_pic_grid_type.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ssdk_oks_ptr_ptr.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\src\\main\\res\\drawable-hdpi\\ssdk_oks_ptr_ptr.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vpi__tab_selected_pressed_holo.9.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\build\\intermediates\\exploded-aar\\Annie\\viewPagerIndicatorLibrary\\unspecified\\res\\drawable-hdpi-v4\\vpi__tab_selected_pressed_holo.9.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\news_pic_default.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\src\\main\\res\\drawable-hdpi\\news_pic_default.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vpi__tab_unselected_focused_holo.9.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\build\\intermediates\\exploded-aar\\Annie\\viewPagerIndicatorLibrary\\unspecified\\res\\drawable-hdpi-v4\\vpi__tab_unselected_focused_holo.9.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_share.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\src\\main\\res\\drawable-hdpi\\icon_share.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\menu_arr_select.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\src\\main\\res\\drawable-hdpi\\menu_arr_select.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\newscenter.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\src\\main\\res\\drawable-hdpi\\newscenter.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vpi__tab_unselected_holo.9.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\build\\intermediates\\exploded-aar\\Annie\\viewPagerIndicatorLibrary\\unspecified\\res\\drawable-hdpi-v4\\vpi__tab_unselected_holo.9.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\setting_press.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\src\\main\\res\\drawable-hdpi\\setting_press.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bottom_tab_bg.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\src\\main\\res\\drawable-hdpi\\bottom_tab_bg.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vpi__tab_selected_focused_holo.9.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\build\\intermediates\\exploded-aar\\Annie\\viewPagerIndicatorLibrary\\unspecified\\res\\drawable-hdpi-v4\\vpi__tab_selected_focused_holo.9.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_pic_list_type.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\src\\main\\res\\drawable-hdpi\\icon_pic_list_type.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_news_comment_num.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\src\\main\\res\\drawable-hdpi\\icon_news_comment_num.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\guide_3.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\src\\main\\res\\drawable-hdpi\\guide_3.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\newscenter_press.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\src\\main\\res\\drawable-hdpi\\newscenter_press.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dot_normal.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\src\\main\\res\\drawable-hdpi\\dot_normal.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\guide_1.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\src\\main\\res\\drawable-hdpi\\guide_1.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\menu_arr_normal.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\src\\main\\res\\drawable-hdpi\\menu_arr_normal.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\button_red_pressed.9.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\src\\main\\res\\drawable-hdpi\\button_red_pressed.9.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\news_tab_item_bg_select.9.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\build\\intermediates\\exploded-aar\\Annie\\viewPagerIndicatorLibrary\\unspecified\\res\\drawable-hdpi-v4\\news_tab_item_bg_select.9.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\govaffairs_press.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\src\\main\\res\\drawable-hdpi\\govaffairs_press.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\splash_bg_newyear.jpg",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\src\\main\\res\\drawable-hdpi\\splash_bg_newyear.jpg"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\smartservice_press.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\src\\main\\res\\drawable-hdpi\\smartservice_press.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\back.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\src\\main\\res\\drawable-hdpi\\back.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\home.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\src\\main\\res\\drawable-hdpi\\home.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\guide_2.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\src\\main\\res\\drawable-hdpi\\guide_2.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\item_default.jpg",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\src\\main\\res\\drawable-hdpi\\item_default.jpg"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\img_menu.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\src\\main\\res\\drawable-hdpi\\img_menu.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vpi__tab_selected_holo.9.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\build\\intermediates\\exploded-aar\\Annie\\viewPagerIndicatorLibrary\\unspecified\\res\\drawable-hdpi-v4\\vpi__tab_selected_holo.9.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vpi__tab_unselected_pressed_holo.9.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\build\\intermediates\\exploded-aar\\Annie\\viewPagerIndicatorLibrary\\unspecified\\res\\drawable-hdpi-v4\\vpi__tab_unselected_pressed_holo.9.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dot_focus.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\src\\main\\res\\drawable-hdpi\\dot_focus.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\smartservice.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\src\\main\\res\\drawable-hdpi\\smartservice.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\govaffairs.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\src\\main\\res\\drawable-hdpi\\govaffairs.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pic_item_list_default.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\src\\main\\res\\drawable-hdpi\\pic_item_list_default.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_textsize.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\src\\main\\res\\drawable-hdpi\\icon_textsize.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\button_red_normal.9.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\src\\main\\res\\drawable-hdpi\\button_red_normal.9.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\splash_horse_newyear.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\src\\main\\res\\drawable-hdpi\\splash_horse_newyear.png"
+    }
+]

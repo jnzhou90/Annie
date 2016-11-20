@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Annie.iml" filepath="$PROJECT_DIR$/Annie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BeiJing/BeiJing.iml" filepath="$PROJECT_DIR$/BeiJing/BeiJing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GooglePlay/GooglePlay.iml" filepath="$PROJECT_DIR$/GooglePlay/GooglePlay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OSChina/OSChina.iml" filepath="$PROJECT_DIR$/OSChina/OSChina.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo_thirdlogin/demo_thirdlogin.iml" filepath="$PROJECT_DIR$/demo_thirdlogin/demo_thirdlogin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imageLoaderLibrary/imageLoaderLibrary.iml" filepath="$PROJECT_DIR$/imageLoaderLibrary/imageLoaderLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/photoViewlibrary/photoViewlibrary.iml" filepath="$PROJECT_DIR$/photoViewlibrary/photoViewlibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pullToRefresh/pullToRefresh.iml" filepath="$PROJECT_DIR$/pullToRefresh/pullToRefresh.iml" />
+      <module fileurl="file://$PROJECT_DIR$/social_sdk_library_project/social_sdk_library_project.iml" filepath="$PROJECT_DIR$/social_sdk_library_project/social_sdk_library_project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/utilsLibrary/utilsLibrary.iml" filepath="$PROJECT_DIR$/utilsLibrary/utilsLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/viewPagerIndicatorLibrary/viewPagerIndicatorLibrary.iml" filepath="$PROJECT_DIR$/viewPagerIndicatorLibrary/viewPagerIndicatorLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webSerser/webSerser.iml" filepath="$PROJECT_DIR$/webSerser/webSerser.iml" />
+    </modules>
+  </component>
+</project>

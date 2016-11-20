@@ -1,0 +1,474 @@
+[
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\review_toolbar_normal.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\src\\main\\res\\drawable-xhdpi\\review_toolbar_normal.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\page_icon_empty.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\src\\main\\res\\drawable-xhdpi\\page_icon_empty.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\share_icon_wechat.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\src\\main\\res\\drawable-xhdpi\\share_icon_wechat.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\actionbar_back_icon_normal.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\src\\main\\res\\drawable-xhdpi\\actionbar_back_icon_normal.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\spinner_ab_default_holo_dark_am.9.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\src\\main\\res\\drawable-xhdpi\\spinner_ab_default_holo_dark_am.9.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_star_black_16dp.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_opt_tools_to_text_pressed.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\src\\main\\res\\drawable-xhdpi\\btn_opt_tools_to_text_pressed.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\actionbar_send_icon.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\src\\main\\res\\drawable-xhdpi\\actionbar_send_icon.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_action_repost_normal.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\src\\main\\res\\drawable-xhdpi\\ic_action_repost_normal.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\share_icon_qq_a.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\src\\main\\res\\drawable-xhdpi\\share_icon_qq_a.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\comment_edittext_pressed.9.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\src\\main\\res\\drawable-xhdpi\\comment_edittext_pressed.9.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_del.9.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\src\\main\\res\\drawable-xhdpi\\btn_del.9.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\page_icon_network.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\src\\main\\res\\drawable-xhdpi\\page_icon_network.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\review_toolbar_pressed.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\src\\main\\res\\drawable-xhdpi\\review_toolbar_pressed.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\notification_bg.9.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\src\\main\\res\\drawable-xhdpi\\notification_bg.9.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_action_favor_pressed.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\src\\main\\res\\drawable-xhdpi\\ic_action_favor_pressed.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_del_press.9.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\src\\main\\res\\drawable-xhdpi\\btn_del_press.9.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_focused_holo.9.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_star_half_black_36dp.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\actionbar_unsend_icon.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\src\\main\\res\\drawable-xhdpi\\actionbar_unsend_icon.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\share_icon_copy_a.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\src\\main\\res\\drawable-xhdpi\\share_icon_copy_a.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_event_status_checked.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\src\\main\\res\\drawable-xhdpi\\icon_event_status_checked.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\actionbar_notice_icon.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\src\\main\\res\\drawable-xhdpi\\actionbar_notice_icon.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_event_status_over.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\src\\main\\res\\drawable-xhdpi\\icon_event_status_over.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_emoji_pressed.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\src\\main\\res\\drawable-xhdpi\\btn_emoji_pressed.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\qr_scan_line.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\src\\main\\res\\drawable-xhdpi\\qr_scan_line.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\edit_select.9.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\src\\main\\res\\drawable-xhdpi\\edit_select.9.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_longpressed_holo.9.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_star_half_black_16dp.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_emoji_normal.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\src\\main\\res\\drawable-xhdpi\\btn_emoji_normal.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\share_icon_more.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\src\\main\\res\\drawable-xhdpi\\share_icon_more.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\drawer_shadow.9.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\src\\main\\res\\drawable-xhdpi\\drawer_shadow.9.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_action_favor_on_normal.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\src\\main\\res\\drawable-xhdpi\\ic_action_favor_on_normal.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_del_nor.9.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\src\\main\\res\\drawable-xhdpi\\btn_del_nor.9.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_star_black_36dp.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\detail_map_guide.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\src\\main\\res\\drawable-xhdpi\\detail_map_guide.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_clear_input_pressed.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\src\\main\\res\\drawable-xhdpi\\btn_clear_input_pressed.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\qr_capture.9.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\src\\main\\res\\drawable-xhdpi\\qr_capture.9.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_action_report_normal.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\src\\main\\res\\drawable-xhdpi\\ic_action_report_normal.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\share_icon_sinaweibo_a.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\src\\main\\res\\drawable-xhdpi\\share_icon_sinaweibo_a.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\widget_today_icon.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\src\\main\\res\\drawable-xhdpi\\widget_today_icon.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_opt_tools_to_text_normal.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\src\\main\\res\\drawable-xhdpi\\btn_opt_tools_to_text_normal.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_action_report_pressed.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\src\\main\\res\\drawable-xhdpi\\ic_action_report_pressed.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_action_write_pressed.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\src\\main\\res\\drawable-xhdpi\\ic_action_write_pressed.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_drawer.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\src\\main\\res\\drawable-xhdpi\\ic_drawer.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\comment_edittext_normal.9.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\src\\main\\res\\drawable-xhdpi\\comment_edittext_normal.9.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\share_icon_wechat_a.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\src\\main\\res\\drawable-xhdpi\\share_icon_wechat_a.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_quickoption_pressed.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\src\\main\\res\\drawable-xhdpi\\btn_quickoption_pressed.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_popup_background_mtrl_mult.9.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\share_icon_more_a.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\src\\main\\res\\drawable-xhdpi\\share_icon_more_a.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_download.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\src\\main\\res\\drawable-xhdpi\\icon_download.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_event_status_attend.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\src\\main\\res\\drawable-xhdpi\\icon_event_status_attend.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_clear_input_normal.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\src\\main\\res\\drawable-xhdpi\\btn_clear_input_normal.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_search_api_mtrl_alpha.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\actionbar_more_icon_normal.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\src\\main\\res\\drawable-xhdpi\\actionbar_more_icon_normal.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_action_favor_on_pressed.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\src\\main\\res\\drawable-xhdpi\\ic_action_favor_on_pressed.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_quickoption_route.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\src\\main\\res\\drawable-xhdpi\\btn_quickoption_route.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\qr_scan_mask.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\src\\main\\res\\drawable-xhdpi\\qr_scan_mask.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\actionbar_icon_add.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\src\\main\\res\\drawable-xhdpi\\actionbar_icon_add.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\share_icon_copy.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\src\\main\\res\\drawable-xhdpi\\share_icon_copy.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\biz_chat_comment_send.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\src\\main\\res\\drawable-xhdpi\\biz_chat_comment_send.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\actionbar_search_icon.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\src\\main\\res\\drawable-xhdpi\\actionbar_search_icon.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\share_icon_wechatfriends_a.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\src\\main\\res\\drawable-xhdpi\\share_icon_wechatfriends_a.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_action_repost_pressed.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\src\\main\\res\\drawable-xhdpi\\ic_action_repost_pressed.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_action_favor_normal.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\src\\main\\res\\drawable-xhdpi\\ic_action_favor_normal.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_opt_text_to_tools_normal.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\src\\main\\res\\drawable-xhdpi\\btn_opt_text_to_tools_normal.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\share_icon_wechatfriends.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\src\\main\\res\\drawable-xhdpi\\share_icon_wechatfriends.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_clear_mtrl_alpha.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_quickoption_nor.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\src\\main\\res\\drawable-xhdpi\\btn_quickoption_nor.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_brows_share.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\src\\main\\res\\drawable-xhdpi\\ic_brows_share.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\share_icon_qq.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\src\\main\\res\\drawable-xhdpi\\share_icon_qq.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\edit_normal.9.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\src\\main\\res\\drawable-xhdpi\\edit_normal.9.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\actionbar_icon_switch_issue_state.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\src\\main\\res\\drawable-xhdpi\\actionbar_icon_switch_issue_state.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\share_icon_sinaweibo.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\src\\main\\res\\drawable-xhdpi\\share_icon_sinaweibo.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_pressed_holo_dark.9.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_opt_text_to_tools_pressed.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\src\\main\\res\\drawable-xhdpi\\btn_opt_text_to_tools_pressed.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\pagefailed_bg.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\src\\main\\res\\drawable-xhdpi\\pagefailed_bg.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\biz_chat_comment_send_prs.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\src\\main\\res\\drawable-xhdpi\\biz_chat_comment_send_prs.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_action_write_normal.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\src\\main\\res\\drawable-xhdpi\\ic_action_write_normal.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\head.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\OSChina\\src\\main\\res\\drawable-xhdpi\\head.png"
+    }
+]

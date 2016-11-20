@@ -1,0 +1,170 @@
+[
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\GooglePlay\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\GooglePlay\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_screen.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\GooglePlay\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_icon.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\GooglePlay\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\GooglePlay\\build\\intermediates\\res\\merged\\release\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\GooglePlay\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\GooglePlay\\build\\intermediates\\res\\merged\\release\\layout\\layout_detail_safe.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\GooglePlay\\src\\main\\res\\layout\\layout_detail_safe.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\GooglePlay\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_mode_bar.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\GooglePlay\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\GooglePlay\\build\\intermediates\\res\\merged\\release\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\GooglePlay\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\GooglePlay\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_bar_decor_include.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\GooglePlay\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_action_bar_decor_include.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\GooglePlay\\build\\intermediates\\res\\merged\\release\\layout\\layout_detail_screen.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\GooglePlay\\src\\main\\res\\layout\\layout_detail_screen.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\GooglePlay\\build\\intermediates\\res\\merged\\release\\layout\\layout_detail_download.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\GooglePlay\\src\\main\\res\\layout\\layout_detail_download.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\GooglePlay\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_bar_tab.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\GooglePlay\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_action_bar_tab.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\GooglePlay\\build\\intermediates\\res\\merged\\release\\layout\\pull_to_refresh_header_vertical.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\GooglePlay\\build\\intermediates\\exploded-aar\\Annie\\pullToRefresh\\unspecified\\res\\layout\\pull_to_refresh_header_vertical.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\GooglePlay\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_radio.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\GooglePlay\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\GooglePlay\\build\\intermediates\\res\\merged\\release\\layout\\activity_image_screen.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\GooglePlay\\src\\main\\res\\layout\\activity_image_screen.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\GooglePlay\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_menu_item_layout.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\GooglePlay\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\GooglePlay\\build\\intermediates\\res\\merged\\release\\layout\\abc_search_view.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\GooglePlay\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\GooglePlay\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_bar_title_item.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\GooglePlay\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\GooglePlay\\build\\intermediates\\res\\merged\\release\\layout\\ptr_listview.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\GooglePlay\\src\\main\\res\\layout\\ptr_listview.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\GooglePlay\\build\\intermediates\\res\\merged\\release\\layout\\menu_list.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\GooglePlay\\src\\main\\res\\layout\\menu_list.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\GooglePlay\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\GooglePlay\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\GooglePlay\\build\\intermediates\\res\\merged\\release\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\GooglePlay\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\GooglePlay\\build\\intermediates\\res\\merged\\release\\layout\\abc_activity_chooser_view_include.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\GooglePlay\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_activity_chooser_view_include.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\GooglePlay\\build\\intermediates\\res\\merged\\release\\layout\\activity_main.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\GooglePlay\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\GooglePlay\\build\\intermediates\\res\\merged\\release\\layout\\homefragment_item.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\GooglePlay\\src\\main\\res\\layout\\homefragment_item.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\GooglePlay\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_mode_close_item.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\GooglePlay\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_action_mode_close_item.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\GooglePlay\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_bar_decor_overlay.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\GooglePlay\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_action_bar_decor_overlay.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\GooglePlay\\build\\intermediates\\res\\merged\\release\\layout\\layout_detail_des.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\GooglePlay\\src\\main\\res\\layout\\layout_detail_des.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\GooglePlay\\build\\intermediates\\res\\merged\\release\\layout\\title_category.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\GooglePlay\\src\\main\\res\\layout\\title_category.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\GooglePlay\\build\\intermediates\\res\\merged\\release\\layout\\home_viewpager.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\GooglePlay\\src\\main\\res\\layout\\home_viewpager.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\GooglePlay\\build\\intermediates\\res\\merged\\release\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\GooglePlay\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\GooglePlay\\build\\intermediates\\res\\merged\\release\\layout\\layout_detail_info.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\GooglePlay\\src\\main\\res\\layout\\layout_detail_info.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\GooglePlay\\build\\intermediates\\res\\merged\\release\\layout\\page_error.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\GooglePlay\\src\\main\\res\\layout\\page_error.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\GooglePlay\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_menu_layout.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\GooglePlay\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\GooglePlay\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\GooglePlay\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\GooglePlay\\build\\intermediates\\res\\merged\\release\\layout\\activity_app_detail.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\GooglePlay\\src\\main\\res\\layout\\activity_app_detail.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\GooglePlay\\build\\intermediates\\res\\merged\\release\\layout\\pull_to_refresh_header_horizontal.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\GooglePlay\\build\\intermediates\\exploded-aar\\Annie\\pullToRefresh\\unspecified\\res\\layout\\pull_to_refresh_header_horizontal.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\GooglePlay\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_bar_home.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\GooglePlay\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_action_bar_home.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\GooglePlay\\build\\intermediates\\res\\merged\\release\\layout\\subjectpage_layout.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\GooglePlay\\src\\main\\res\\layout\\subjectpage_layout.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\GooglePlay\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_layout.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\GooglePlay\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\GooglePlay\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_bar_tabbar.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\GooglePlay\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_action_bar_tabbar.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\GooglePlay\\build\\intermediates\\res\\merged\\release\\layout\\child_category.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\GooglePlay\\src\\main\\res\\layout\\child_category.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\GooglePlay\\build\\intermediates\\res\\merged\\release\\layout\\abc_expanded_menu_layout.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\GooglePlay\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\GooglePlay\\build\\intermediates\\res\\merged\\release\\layout\\page_loading.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\GooglePlay\\src\\main\\res\\layout\\page_loading.xml"
+    }
+]

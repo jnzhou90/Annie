@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="200dp" >
+
+    <!-- com.annie.newsApp.view.TabDetailVeiwPager -->
+    <com.annie.newsApp.view.TabDetailVeiwPager
+        android:id="@+id/tabdetail_vp_viewpager"
+        android:layout_width="match_parent"
+        android:layout_height="200dp" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:background="#32000000" >
+
+        <TextView
+            android:id="@+id/tabdetail_tv_iconInfo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="5dp"
+            android:text="图片描述"
+            android:textColor="#fff" />
+
+        <LinearLayout
+            android:id="@+id/tabdetail_ll_point"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:orientation="horizontal" >
+        </LinearLayout>
+    </RelativeLayout>
+
+</RelativeLayout>

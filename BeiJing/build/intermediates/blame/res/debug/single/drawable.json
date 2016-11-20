@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\build\\intermediates\\res\\merged\\debug\\drawable\\reflsh_header.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\src\\main\\res\\drawable\\reflsh_header.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\build\\intermediates\\res\\merged\\debug\\drawable\\guide_point_normal.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\src\\main\\res\\drawable\\guide_point_normal.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\build\\intermediates\\res\\merged\\debug\\drawable\\bottom_newscenter_selector.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\src\\main\\res\\drawable\\bottom_newscenter_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\build\\intermediates\\res\\merged\\debug\\drawable\\point_selector.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\src\\main\\res\\drawable\\point_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\build\\intermediates\\res\\merged\\debug\\drawable\\vpi__tabtext_indicator.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\build\\intermediates\\exploded-aar\\Annie\\viewPagerIndicatorLibrary\\unspecified\\res\\drawable\\vpi__tabtext_indicator.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\build\\intermediates\\res\\merged\\debug\\drawable\\bottom_smartservice_selector.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\src\\main\\res\\drawable\\bottom_smartservice_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\build\\intermediates\\res\\merged\\debug\\drawable\\left_menu_item_selector.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\src\\main\\res\\drawable\\left_menu_item_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\build\\intermediates\\res\\merged\\debug\\drawable\\bottom_text_selector.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\src\\main\\res\\drawable\\bottom_text_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\build\\intermediates\\res\\merged\\debug\\drawable\\left_menu_text.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\src\\main\\res\\drawable\\left_menu_text.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\build\\intermediates\\res\\merged\\debug\\drawable\\guide_btn_text_selector.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\src\\main\\res\\drawable\\guide_btn_text_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\build\\intermediates\\res\\merged\\debug\\drawable\\ssdk_oks_classic_platform_cell_back.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\src\\main\\res\\drawable\\ssdk_oks_classic_platform_cell_back.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\build\\intermediates\\res\\merged\\debug\\drawable\\bottom_home_selector.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\src\\main\\res\\drawable\\bottom_home_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\build\\intermediates\\res\\merged\\debug\\drawable\\bottom_setting_selector.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\src\\main\\res\\drawable\\bottom_setting_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\build\\intermediates\\res\\merged\\debug\\drawable\\vpi__tab_indicator.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\build\\intermediates\\exploded-aar\\Annie\\viewPagerIndicatorLibrary\\unspecified\\res\\drawable\\vpi__tab_indicator.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\build\\intermediates\\res\\merged\\debug\\drawable\\bottom_govaffairs_selector.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\src\\main\\res\\drawable\\bottom_govaffairs_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\build\\intermediates\\res\\merged\\debug\\drawable\\common_listview_headview_red_arrow.png",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\src\\main\\res\\drawable\\common_listview_headview_red_arrow.png"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\build\\intermediates\\res\\merged\\debug\\drawable\\ssdk_oks_classic_progressbar.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\src\\main\\res\\drawable\\ssdk_oks_classic_progressbar.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\build\\intermediates\\res\\merged\\debug\\drawable\\guide_btn_selector.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\src\\main\\res\\drawable\\guide_btn_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\build\\intermediates\\res\\merged\\debug\\drawable\\guide_point_red.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\src\\main\\res\\drawable\\guide_point_red.xml"
+    }
+]

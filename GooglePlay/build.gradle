@@ -1,0 +1,29 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 17
+    buildToolsVersion "23.0.1"
+
+    defaultConfig {
+        applicationId "com.annie.googleplay"
+        minSdkVersion 14
+        targetSdkVersion 17
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled true
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-project.txt'
+        }
+    }
+}
+
+dependencies {
+    compile project(':pullToRefresh')
+    compile project(':imageLoaderLibrary')
+    compile project(':photoViewlibrary')
+    compile 'com.android.support:support-v4:18.0.0'
+    compile 'com.google.code.gson:gson:2.2.1'
+    compile 'com.android.support:appcompat-v7:18.0.0'
+    compile files('libs/nineoldandroids-2.4.0.jar')
+}

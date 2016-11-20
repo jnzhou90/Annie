@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\build\\intermediates\\res\\merged\\debug\\menu\\news_detail.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\src\\main\\res\\menu\\news_detail.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\build\\intermediates\\res\\merged\\debug\\menu\\main_ui.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\src\\main\\res\\menu\\main_ui.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\build\\intermediates\\res\\merged\\debug\\menu\\guide_ui.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\src\\main\\res\\menu\\guide_ui.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\build\\intermediates\\res\\merged\\debug\\menu\\welcome_ui.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\BeiJing\\src\\main\\res\\menu\\welcome_ui.xml"
+    }
+]

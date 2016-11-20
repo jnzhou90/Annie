@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\GooglePlay\\build\\intermediates\\res\\merged\\release\\menu\\image_screen.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\GooglePlay\\src\\main\\res\\menu\\image_screen.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\GooglePlay\\build\\intermediates\\res\\merged\\release\\menu\\main.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\GooglePlay\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.1\\workspace\\Annie\\GooglePlay\\build\\intermediates\\res\\merged\\release\\menu\\app_detail.xml",
+        "source": "E:\\androidStudio2.1\\workspace\\Annie\\GooglePlay\\src\\main\\res\\menu\\app_detail.xml"
+    }
+]

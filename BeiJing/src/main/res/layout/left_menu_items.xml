@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="Annie"
+    android:textSize="25sp"
+    android:drawableLeft="@drawable/left_menu_item_selector"
+    android:padding="15dp"
+    android:drawablePadding="10dp"
+    android:enabled="false"
+    android:textColor="@drawable/left_menu_text"
+    >
+    
+
+</TextView>

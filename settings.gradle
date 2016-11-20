@@ -1,0 +1,12 @@
+include ':', 'social_sdk_library_project'
+include ':imageLoaderLibrary', ':demo_thirdlogin'
+include ':photoViewlibrary'
+include ':pullToRefresh'
+
+include ':GooglePlay'
+include ':OSChina'
+include ':utilsLibrary'
+include ':viewPagerIndicatorLibrary'
+include ':library'
+include ':BeiJing'
+include ':webSerser'
